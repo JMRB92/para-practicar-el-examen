@@ -1,46 +1,39 @@
-# EXAMEN TEST · Inteligencia Artificial · v1.06
+# EXAMEN TEST · Inteligencia Artificial · v1.07
 
-Aplicación web completamente local en el navegador, compatible con GitHub Pages. Sin Firebase, sin panel del profesor, sin servidor de resultados y sin envío automático de datos del alumnado.
+Aplicación web que funciona localmente en el navegador, sin Firebase, sin bases de datos ni envío automático de datos del alumnado. Todo el examen puede ejecutarse desde `index.html`, incluidas las preguntas y la generación de PDF.
 
-## Cambios v1.06
+## Novedades de la v1.07
 
-- **50 enunciados conservados** exactamente de v1.05, incluidos los ajustes pedagógicos de preguntas 15, 29, 31 y 49.
-- **50 respuestas correctas conservadas** sin modificar su texto ni identificador.
-- **150 respuestas incorrectas reescritas** con expresiones más fáciles y claras.
-- Código de revisión: **`ILOVEIA`** (sustituye al antiguo `123456789`).
-- El examen mantiene aleatorización independiente de preguntas y opciones.
+- Se mantienen **íntegros** los 50 enunciados, la respuesta correcta de cada pregunta y las cuatro modificaciones pedagógicas de la v1.03.
+- Se han **reescrito las 150 opciones incorrectas** para convertirlas en distractores plausibles de dificultad media, relacionados con los conceptos de los dos documentos de teoría.
+- Se han revisado las longitudes: la opción correcta es la más corta en 14 preguntas, la segunda más corta en 12, la tercera en 12 y la más larga en 12. Las opciones se mezclan además en cada intento.
+- Sigue utilizándose el código **`ILOVEIA`** para desbloquear la corrección detallada y el PDF completo.
 
-## Uso
+## Uso para alumnado
 
-1. El alumno introduce **nombre, apellidos** y un grupo obligatorio de **A a H**.
-2. Pulsa **Aceptar**, consulta las instrucciones y **Comenzar examen**.
-3. Contesta 50 preguntas (una correcta entre cuatro opciones) en un máximo inicial de **30 minutos**.
-4. Cuando vence el plazo puede solicitar **una única ampliación de 10 minutos**. El plazo de los 40 minutos cuenta desde el inicio del examen, no desde la apertura de la ventana de ampliación.
-5. La nota es `máximo(0, mínimo(10, aciertos × 0,20 − errores × 0,05))`.
-6. Al finalizar, ve **solo sus datos, fecha, nota, aciertos, errores, blancos y tiempo**. Puede descargar un **PDF resumen sin preguntas ni soluciones** para enviar al docente.
-7. Para consultar la revisión, introduce el código `ILOVEIA`. Entonces puede visualizar las 50 preguntas y descargar un **PDF detallado** con todas las opciones originales, la elegida, la correcta y el estado de cada pregunta. Puede seguir descargando el PDF resumen.
-8. La ampliación se indica en ambos PDF.
+1. Introduce nombre y apellidos, y selecciona obligatoriamente un grupo **A–H**.
+2. Pulsa **Aceptar** y después **Comenzar examen**.
+3. Responde 50 preguntas, de una en una; preguntas y opciones se mezclan independientemente. Puedes volver, avanzar, borrar y cambiar respuestas.
+4. El examen dura **30 minutos**, medidos por tiempo real; al terminar, puede aceptar **una única ampliación de 10 minutos**. La ampliación no detiene el reloj: el límite absoluto es 40 minutos desde el inicio.
+5. La calificación es `máximo(0, mínimo(10, aciertos × 0,20 − errores × 0,05))`.
+6. Al finalizar, el alumno ve solo sus datos, grupo, fecha/hora, nota, aciertos, errores, blancos y tiempo empleado. Descarga el **PDF resumen de una página**, sin preguntas ni soluciones, para enviarlo manualmente al docente.
+7. Si el profesor facilita el código **`ILOVEIA`**, se desbloquea la revisión de las 50 preguntas y el **PDF detallado**, con cuatro opciones originales en su orden original, respuesta elegida, solución y valoración de cada pregunta.
+8. Ambos PDF indican si hubo ampliación y el tiempo máximo autorizado.
 
-## Instalación en GitHub Pages
+## GitHub Pages
 
-1. Extrae el ZIP.
-2. Sube el **contenido** extraído, con `index.html`, `sw.js`, `data/questions.json` y demás archivos, a la raíz del repositorio.
-3. Activa GitHub Pages desde la rama principal y la carpeta raíz.
-4. Al actualizar una versión antigua, fuerza recarga (`Ctrl + Mayús + R`) y, si el navegador aún sirve una versión antigua, limpia los datos del sitio o elimina el Service Worker antiguo. **Advierte que borrar los datos del sitio elimina el progreso de exámenes en curso**.
+Extrae el ZIP y sube su **contenido**, no la carpeta contenedora, a la raíz del repositorio. Deben estar `index.html`, `sw.js`, `data/questions.json`, `test.html` y este `README.md`. Activa GitHub Pages desde la rama principal y raíz (`/`).
 
-Un archivo `EXAMEN_TEST_v1.06_HTML_INDEPENDIENTE.html` se distribuye también fuera del ZIP para abrirlo directamente en Chrome/Firefox/Edge. La vista previa HTML dentro de ChatGPT puede bloquear JavaScript; descarga el archivo antes de probarlo.
+El banco de preguntas se incluye **dentro de `index.html`** para que la aplicación inicie sin peticiones externas; `data/questions.json` contiene la copia editable. Si cambias preguntas, debes mantener ambas copias sincronizadas. En la web se intenta cargar el banco público del mismo origen, pero si falla se utiliza el integrado. **Nunca se envían datos del alumno** en esta operación.
 
-## Arquitectura
+Al publicar la actualización, fuerza la recarga del navegador (`Ctrl+Mayús+R`). El Service Worker usa una nueva caché v1.07. Si el navegador sigue mostrando una versión antigua, revisa los datos del sitio con cuidado: **eliminar almacenamiento local puede borrar exámenes pendientes**. Los intentos anteriores no se migran porque el banco de respuestas cambió.
 
-- `index.html`: interfaz, banco integrado, temporizador, recuperación, corrección y generador PDF local sin bibliotecas externas.
-- `data/questions.json`: copia externa editable del mismo banco. En GitHub Pages se consulta de forma opcional desde el mismo origen. Se recomienda mantener sincronizadas ambas copias al cambiar preguntas.
-- `sw.js`: caché offline de archivos públicos; versión de caché actualizada a v1.06.
-- `test.html`: copia de diagnóstico para realizar pruebas manuales (usa el mismo motor).
+## Prueba local
 
-El cambio de distractores implica un **nuevo intento local** v1.06. No se importan automáticamente exámenes incompletos de versiones anteriores, para evitar respuestas vinculadas a bancos distintos.
+Además del ZIP hay un HTML independiente para abrirlo descargado con Chrome, Edge o Firefox. La vista previa de archivos dentro de ChatGPT puede impedir JavaScript, así que no es válida para comprobar botones.
 
-## Privacidad y límites
+`test.html` ofrece el mismo funcionamiento para pruebas manuales.
 
-No se usa Firebase, almacenamiento en la nube, analítica ni envío automático de resultados. El progreso se guarda en el almacenamiento del navegador; un alumno debe descargar el PDF y enviarlo manualmente. El lector de preguntas opcional accede a archivos públicos de la propia web; **no envía información de estudiantes**.
+## Privacidad y limitaciones
 
-En una aplicación 100 % estática el código y las respuestas se pueden inspeccionar técnicamente: el acceso mediante `ILOVEIA` es una barrera práctica, no una defensa contra usuarios avanzados. El PDF no tiene firma digital verificable. Cambiar el navegador o borrar datos locales puede hacer perder el examen en curso.
+No hay Firebase, cookies de seguimiento, analítica, correo, autenticación de usuarios ni servidor propio. La recuperación utiliza almacenamiento del mismo navegador/dispositivo; si se borra o se cambia de equipo, puede perderse. El alumno descarga y envía el PDF manualmente. Como todo el contenido está en el navegador, un usuario avanzado puede inspeccionar las respuestas y el código de acceso; **no es una medida de seguridad fuerte**, y el PDF tampoco está firmado digitalmente.
