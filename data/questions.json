@@ -1,0 +1,1152 @@
+[
+  {
+    "id": 1,
+    "question": "¿Qué distingue fundamentalmente la capacidad de una máquina para ejecutar una labor compleja de la cognición humana?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Que una máquina tiene conciencia siempre que resuelve un problema."
+      },
+      {
+        "id": "B",
+        "text": "La capacidad de la máquina para imitar conductas inteligentes sin poseer conciencia ni comprensión real."
+      },
+      {
+        "id": "C",
+        "text": "Que los ordenadores piensan y sienten exactamente como las personas."
+      },
+      {
+        "id": "D",
+        "text": "Que una máquina comprende de verdad todo lo que escribe."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 2,
+    "question": "¿Cuál fue la contribución principal de la Conferencia de Dartmouth celebrada en 1956?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La creación del primer teléfono inteligente."
+      },
+      {
+        "id": "B",
+        "text": "La invención de Internet."
+      },
+      {
+        "id": "C",
+        "text": "La formalización y acuñación del término Artificial Intelligence por parte de investigadores como McCarthy y Minsky."
+      },
+      {
+        "id": "D",
+        "text": "La presentación de ChatGPT al público."
+      }
+    ],
+    "correctOptionId": "C"
+  },
+  {
+    "id": 3,
+    "question": "¿Qué caracterizó a los períodos conocidos históricamente como «Inviernos de la IA»?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Un aumento continuo de la financiación de la IA."
+      },
+      {
+        "id": "B",
+        "text": "Una caída drástica en el interés y la inversión al no cumplirse las expectativas desmedidas de la época."
+      },
+      {
+        "id": "C",
+        "text": "La aparición de la primera inteligencia artificial general."
+      },
+      {
+        "id": "D",
+        "text": "La prohibición mundial de investigar inteligencia artificial."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 4,
+    "question": "¿Cómo se resume la evolución histórica de los paradigmas técnicos en la Inteligencia Artificial?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Modelos generativos → reglas → redes neuronales."
+      },
+      {
+        "id": "B",
+        "text": "Reglas y lógica → Aprendizaje automático a partir de datos → Redes neuronales → Modelos generativos."
+      },
+      {
+        "id": "C",
+        "text": "Redes neuronales → IA generativa → reglas simbólicas."
+      },
+      {
+        "id": "D",
+        "text": "Las técnicas de IA han sido siempre las mismas."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 5,
+    "question": "¿Por qué un sistema experto en ajedrez que derrota a campeones mundiales se clasifica como ANI (IA Específica)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Porque también puede conducir vehículos sin entrenamiento."
+      },
+      {
+        "id": "B",
+        "text": "Porque su diseño le permite alcanzar la excelencia en un dominio concreto, pero es incapaz de transferir ese conocimiento a otras actividades cotidianas."
+      },
+      {
+        "id": "C",
+        "text": "Porque puede realizar cualquier tarea humana."
+      },
+      {
+        "id": "D",
+        "text": "Porque posee una inteligencia general como la de una persona."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 6,
+    "question": "¿Qué cualidad definiría a una hipotética Inteligencia Artificial General (AGI) frente a los sistemas actuales?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Responder únicamente preguntas de un tema concreto."
+      },
+      {
+        "id": "B",
+        "text": "La habilidad para aprender, razonar de manera flexible y aplicar conocimientos de un ámbito a otro sin necesidad de reentrenamiento constante."
+      },
+      {
+        "id": "C",
+        "text": "Limitarse a reconocer fotografías de animales."
+      },
+      {
+        "id": "D",
+        "text": "Seguir siempre instrucciones fijas sin aprender nunca."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 7,
+    "question": "¿En qué se diferencia el funcionamiento de la IA generativa respecto al de una base de datos tradicional?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Se limita a recuperar textos exactos que ya estaban guardados."
+      },
+      {
+        "id": "B",
+        "text": "La IA generativa sintetiza creaciones originales a partir de los patrones estadísticos asimilados durante su fase de entrenamiento."
+      },
+      {
+        "id": "C",
+        "text": "Solo puede ordenar listas de números."
+      },
+      {
+        "id": "D",
+        "text": "Genera contenido sin utilizar ningún dato de entrenamiento."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 8,
+    "question": "¿Cuál es el mecanismo subyacente mediante el cual operan los Grandes Modelos de Lenguaje (LLM)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Busca todas sus respuestas en un diccionario de papel."
+      },
+      {
+        "id": "B",
+        "text": "El cálculo estadístico orientado a predecir cuál es la siguiente palabra más probable dentro de una secuencia."
+      },
+      {
+        "id": "C",
+        "text": "Selecciona palabras completamente al azar y sin contexto."
+      },
+      {
+        "id": "D",
+        "text": "Comprende conscientemente cada palabra como una persona."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 9,
+    "question": "¿A qué fenómeno se refiere el concepto de «alucinación» en el contexto de la IA generativa?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Que la IA se queda sin batería durante una consulta."
+      },
+      {
+        "id": "B",
+        "text": "A la generación de datos falsos, referencias inexistentes o afirmaciones inventadas presentadas con aparente seguridad."
+      },
+      {
+        "id": "C",
+        "text": "Que la pantalla muestra los colores equivocados."
+      },
+      {
+        "id": "D",
+        "text": "Que un programa tarda varios segundos en responder."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 10,
+    "question": "¿Cuál es la diferencia estructural entre la programación tradicional y el enfoque del Machine Learning?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ambos métodos consisten solo en escribir reglas fijas."
+      },
+      {
+        "id": "B",
+        "text": "En la programación tradicional el humano codifica las reglas explícitas; en el Machine Learning el sistema deduce los patrones a partir de datos y resultados conocidos."
+      },
+      {
+        "id": "C",
+        "text": "El Machine Learning aprende sin utilizar datos ni ejemplos."
+      },
+      {
+        "id": "D",
+        "text": "En la programación tradicional las reglas aparecen solas."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 11,
+    "question": "¿Qué relación jerárquica y técnica existe entre la Inteligencia Artificial, el Machine Learning y el Deep Learning?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Machine Learning y Deep Learning son tecnologías sin relación."
+      },
+      {
+        "id": "B",
+        "text": "El Deep Learning es una subdisciplina del Machine Learning, el cual a su vez forma parte del campo más amplio de la Inteligencia Artificial."
+      },
+      {
+        "id": "C",
+        "text": "Toda la inteligencia artificial forma parte del Deep Learning."
+      },
+      {
+        "id": "D",
+        "text": "El Deep Learning no se utiliza en inteligencia artificial."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 12,
+    "question": "¿De qué manera procesa la información una red neuronal profunda (Deep Learning) para clasificar una imagen?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Reconoce imágenes sin estudiar ninguna de sus características."
+      },
+      {
+        "id": "B",
+        "text": "Mediante un flujo que va desde una capa de entrada, atraviesa múltiples capas ocultas que extraen patrones complejos, hasta llegar a una capa de salida."
+      },
+      {
+        "id": "C",
+        "text": "Decide todo mediante una sola regla escrita a mano."
+      },
+      {
+        "id": "D",
+        "text": "Clasifica las imágenes sin recibirlas ni analizarlas."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 13,
+    "question": "¿Cuál es la diferencia esencial entre un sistema de automatización convencional y uno basado en Inteligencia Artificial?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La automatización sigue instrucciones fijas y predecibles sin adaptarse, mientras que la IA analiza datos para inferir patrones y actuar según probabilidades."
+      },
+      {
+        "id": "B",
+        "text": "La automatización siempre aprende de los datos por sí sola."
+      },
+      {
+        "id": "C",
+        "text": "La IA solo sirve para encender luces a una hora fija."
+      },
+      {
+        "id": "D",
+        "text": "Ambas tecnologías se limitan a ejecutar las mismas reglas fijas."
+      }
+    ],
+    "correctOptionId": "A"
+  },
+  {
+    "id": 14,
+    "question": "En un sistema de climatización inteligente que combina IA y automatización, ¿qué función cumple exactamente la Inteligencia Artificial?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Encender siempre el aparato a las ocho de la mañana."
+      },
+      {
+        "id": "B",
+        "text": "Mostrar la temperatura sin analizar ningún patrón."
+      },
+      {
+        "id": "C",
+        "text": "Analizar los patrones de los datos recogidos para predecir variaciones térmicas y determinar la necesidad de actuar."
+      },
+      {
+        "id": "D",
+        "text": "Sustituir los sensores por interruptores manuales."
+      }
+    ],
+    "correctOptionId": "C"
+  },
+  {
+    "id": 15,
+    "question": "En un sistema inteligente que aprende de los resultados de sus acciones, ¿qué secuencia describe su funcionamiento?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Actuar → Dormir → Reiniciar."
+      },
+      {
+        "id": "B",
+        "text": "Percibir → Procesar → Decidir → Actuar → Aprender."
+      },
+      {
+        "id": "C",
+        "text": "Imprimir → Guardar → Apagar."
+      },
+      {
+        "id": "D",
+        "text": "Conectar → Desconectar → Borrar."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 16,
+    "question": "Dentro de la arquitectura de un sistema inteligente conectado al mundo físico, ¿qué papel desempeñan los sensores?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mover los motores que hacen girar las ruedas."
+      },
+      {
+        "id": "B",
+        "text": "Captan magnitudes del entorno (como luz, distancia o temperatura) actuando como los «sentidos» de la máquina."
+      },
+      {
+        "id": "C",
+        "text": "Tomar decisiones sin recibir información del entorno."
+      },
+      {
+        "id": "D",
+        "text": "Guardar todas las respuestas del sistema sin captar datos."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 17,
+    "question": "¿Qué consecuencia directa tiene la falta de datos adecuados o de calidad en la fase de entrada de un sistema inteligente?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La IA funciona mejor cuanto menos información recibe."
+      },
+      {
+        "id": "B",
+        "text": "El rendimiento del sistema se ve gravemente comprometido, pudiendo funcionar de manera errónea o fallar por completo."
+      },
+      {
+        "id": "C",
+        "text": "Los datos dejan de ser necesarios para tomar decisiones."
+      },
+      {
+        "id": "D",
+        "text": "El sistema consigue siempre resultados correctos por sí solo."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 18,
+    "question": "¿Cuál de los siguientes elementos constituye un ejemplo de «actuador» en un sistema robótico o de IoT?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Una cámara que capta imágenes."
+      },
+      {
+        "id": "B",
+        "text": "Un termómetro que mide la temperatura."
+      },
+      {
+        "id": "C",
+        "text": "Un servomotor, una válvula o un brazo robótico que modifica el entorno físico tras recibir una orden."
+      },
+      {
+        "id": "D",
+        "text": "Un micrófono que detecta sonidos."
+      }
+    ],
+    "correctOptionId": "C"
+  },
+  {
+    "id": 19,
+    "question": "En el ejemplo práctico de un robot aspirador, ¿qué ocurre inmediatamente después de que el sistema decide hacia dónde desplazarse?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El robot apaga sus sensores y deja de moverse para siempre."
+      },
+      {
+        "id": "B",
+        "text": "Los actuadores ponen en marcha los motores y mueven las ruedas para ejecutar el desplazamiento."
+      },
+      {
+        "id": "C",
+        "text": "El robot borra la información que acaba de recoger."
+      },
+      {
+        "id": "D",
+        "text": "El robot muestra una fotografía y no se desplaza."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 20,
+    "question": "¿Cuál es la principal ventaja de entrenar a un sistema de IA en un entorno simulado antes de llevarlo al mundo real?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Que ya nunca hace falta probar el sistema en la realidad."
+      },
+      {
+        "id": "B",
+        "text": "Permite ejecutar millones de pruebas a gran velocidad, bajo condiciones controladas y sin riesgo de daños físicos ni altos costes."
+      },
+      {
+        "id": "C",
+        "text": "Que todos los errores desaparecen para siempre."
+      },
+      {
+        "id": "D",
+        "text": "Que los robots adquieren conciencia durante el entrenamiento."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 21,
+    "question": "¿Qué limitación o desventaja presenta el aprendizaje realizado directamente en entornos reales?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Que todas las condiciones reales se controlan por completo."
+      },
+      {
+        "id": "B",
+        "text": "Conlleva un menor control sobre las variables del entorno, mayor consumo de tiempo y el riesgo de que los errores provoquen daños materiales o físicos."
+      },
+      {
+        "id": "C",
+        "text": "Que no es necesario utilizar sensores ni motores."
+      },
+      {
+        "id": "D",
+        "text": "Que los fallos nunca provocan consecuencias reales."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 22,
+    "question": "¿Cuál es la estrategia habitual en el desarrollo de sistemas complejos como los vehículos autónomos respecto a los entornos de aprendizaje?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Probar los vehículos directamente en carretera sin preparación."
+      },
+      {
+        "id": "B",
+        "text": "Entrenarlos inicialmente en simuladores virtuales para que cometan errores sin peligro, y posteriormente adaptarlos y validarlos en el mundo real."
+      },
+      {
+        "id": "C",
+        "text": "Entrenar solo con instrucciones escritas en papel."
+      },
+      {
+        "id": "D",
+        "text": "Evitar cualquier prueba antes de vender el vehículo."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 23,
+    "question": "¿Qué ejemplo ilustra correctamente la combinación de una regla de automatización con un patrón de probabilidad de IA?",
+    "options": [
+      {
+        "id": "A",
+        "text": "«Si son las ocho, la luz se enciende siempre»."
+      },
+      {
+        "id": "B",
+        "text": "«Si la cámara detecta una silueta que probablemente sea una persona delante del robot, entonces ordena al motor que frene»."
+      },
+      {
+        "id": "C",
+        "text": "«Si pulso un botón, se abre la puerta»."
+      },
+      {
+        "id": "D",
+        "text": "«Si el reloj marca las doce, suena una alarma»."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 24,
+    "question": "¿Por qué el texto advierte sobre la necesidad de verificar la información generada por modelos como GPT, Gemini o Claude en ámbitos académicos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Porque todas sus respuestas están escritas por profesores."
+      },
+      {
+        "id": "B",
+        "text": "Porque al funcionar mediante predicción estadística de palabras y no como fuentes enciclopédicas verificadas, pueden fabricar datos falsos con apariencia verosímil."
+      },
+      {
+        "id": "C",
+        "text": "Porque siempre conocen la respuesta verdadera."
+      },
+      {
+        "id": "D",
+        "text": "Porque sus textos son automáticamente documentos oficiales."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 25,
+    "question": "Según la reflexión final del documento, ¿qué actitud debe adoptar un estudiante ante el despliegue actual de la Inteligencia Artificial?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aceptar cualquier respuesta de IA sin revisarla."
+      },
+      {
+        "id": "B",
+        "text": "Comprender sus fundamentos técnicos para utilizarla con sentido crítico, verificando sus resultados y considerando sus implicaciones éticas."
+      },
+      {
+        "id": "C",
+        "text": "Dejar que la IA tome todas las decisiones personales."
+      },
+      {
+        "id": "D",
+        "text": "Utilizar la IA sin preocuparse por sus consecuencias."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 26,
+    "question": "¿Por qué se considera que los contenidos de seguridad, privacidad y ética digital constituyen una base imprescindible en este curso?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Porque la seguridad hace innecesario proteger las cuentas."
+      },
+      {
+        "id": "B",
+        "text": "Porque aportan los criterios de evaluación y hábitos responsables necesarios para utilizar, diseñar o evaluar cualquier sistema tecnológico posterior."
+      },
+      {
+        "id": "C",
+        "text": "Porque las normas digitales solo importan a los informáticos."
+      },
+      {
+        "id": "D",
+        "text": "Porque la ética permite evitar el resto de asignaturas."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 27,
+    "question": "Un servidor corporativo sufre un ataque que cifra sus bases de datos e impide que los empleados accedan a sus archivos durante la jornada laboral, aunque la información no haya sido filtrada al exterior. ¿Qué principio básico de la seguridad informática se ha vulnerado directamente?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La confidencialidad, porque se ha publicado toda la información."
+      },
+      {
+        "id": "B",
+        "text": "La disponibilidad, ya que un sistema seguro pero inaccesible cuando se necesita pierde su utilidad."
+      },
+      {
+        "id": "C",
+        "text": "La integridad, porque todos los archivos se han corregido."
+      },
+      {
+        "id": "D",
+        "text": "Ninguno, porque los archivos todavía existen aunque no se puedan abrir."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 28,
+    "question": "¿Cuál es la postura realista respecto al nivel de protección que se puede alcanzar en un entorno digital?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Un antivirus garantiza que nunca habrá ataques."
+      },
+      {
+        "id": "B",
+        "text": "La seguridad absoluta no existe; el propósito real es mitigar los riesgos hasta un nivel aceptable mediante buenas prácticas constantes."
+      },
+      {
+        "id": "C",
+        "text": "Una contraseña corta siempre protege por completo."
+      },
+      {
+        "id": "D",
+        "text": "Un ordenador actualizado no puede tener fallos de seguridad."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 29,
+    "question": "¿Qué ventaja ofrece una frase larga frente a una contraseña corta repleta de símbolos complejos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ofrece mayor resistencia a los ataques de fuerza bruta debido a su longitud."
+      },
+      {
+        "id": "B",
+        "text": "Una contraseña corta es más segura porque se escribe rápido."
+      },
+      {
+        "id": "C",
+        "text": "La longitud de una contraseña no influye en su seguridad."
+      },
+      {
+        "id": "D",
+        "text": "Una clave de cuatro letras es imposible de adivinar."
+      }
+    ],
+    "correctOptionId": "A"
+  },
+  {
+    "id": 30,
+    "question": "¿En qué consiste exactamente un «ataque de reutilización de credenciales»?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cambiar de contraseña cada vez que se inicia sesión."
+      },
+      {
+        "id": "B",
+        "text": "En aprovechar la filtración de una contraseña en un servicio web para intentar acceder con esa misma clave a otras cuentas del usuario."
+      },
+      {
+        "id": "C",
+        "text": "Utilizar una clave distinta y segura en cada servicio."
+      },
+      {
+        "id": "D",
+        "text": "Cerrar las cuentas antiguas que ya no utilizamos."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 31,
+    "question": "¿Cuál es la función principal de un gestor de contraseñas dentro de una estrategia de higiene digital?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Compartir la misma contraseña con todos los amigos."
+      },
+      {
+        "id": "B",
+        "text": "Generar claves aleatorias y robustas, guardarlas de forma segura y permitir usar una distinta en cada servicio sin tener que memorizarlas."
+      },
+      {
+        "id": "C",
+        "text": "Desactivar la verificación en dos pasos de las cuentas."
+      },
+      {
+        "id": "D",
+        "text": "Publicar las contraseñas para no perderlas."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 32,
+    "question": "¿Qué diferencia conceptual existe entre la «identificación» y la «autenticación» en un sistema informático?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La identificación consiste en declarar quiénes somos, mientras que la autenticación exige aportar evidencias verificables que demuestren dicha identidad."
+      },
+      {
+        "id": "B",
+        "text": "Identificarse y autenticarse significan exactamente lo mismo."
+      },
+      {
+        "id": "C",
+        "text": "Autenticarse consiste solo en escribir el nombre de usuario."
+      },
+      {
+        "id": "D",
+        "text": "Identificarse exige siempre mostrar una huella digital."
+      }
+    ],
+    "correctOptionId": "A"
+  },
+  {
+    "id": 33,
+    "question": "Si un sistema de acceso solicita introducir un código PIN y, a continuación, validar la huella dactilar en el teléfono móvil, ¿qué factores de autenticación está combinando?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dos contraseñas distintas: dos factores de conocimiento."
+      },
+      {
+        "id": "B",
+        "text": "Un factor de conocimiento (algo que se sabe) junto con un factor biométrico (algo que se es)."
+      },
+      {
+        "id": "C",
+        "text": "Dos teléfonos móviles: dos factores de posesión."
+      },
+      {
+        "id": "D",
+        "text": "Dos huellas dactilares: dos factores biométricos."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 34,
+    "question": "¿Cuál es el rasgo psicológico más característico que suelen explotar los mensajes de phishing para lograr que la víctima entregue sus datos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dar mucho tiempo para que el usuario revise los enlaces."
+      },
+      {
+        "id": "B",
+        "text": "La creación de una falsa sensación de urgencia, amenaza o premio inesperado para inducir una reacción impulsiva y sin reflexión."
+      },
+      {
+        "id": "C",
+        "text": "Evitar mencionar premios, problemas y amenazas."
+      },
+      {
+        "id": "D",
+        "text": "Pedir que el usuario consulte tranquilamente con su banco."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 35,
+    "question": "¿Por qué se afirma en el ámbito de la ingeniería social que la persona suele ser el eslabón más débil de la seguridad?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Porque las personas nunca utilizan contraseñas."
+      },
+      {
+        "id": "B",
+        "text": "Porque los atacantes manipulan emociones humanas como la confianza, la cortesía o el miedo para obtener información sin necesidad de vulnerar barreras técnicas."
+      },
+      {
+        "id": "C",
+        "text": "Porque los atacantes no intentan engañar a nadie."
+      },
+      {
+        "id": "D",
+        "text": "Porque los ordenadores no pueden guardar datos privados."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 36,
+    "question": "¿Qué diferencia el comportamiento de un troyano respecto al de un ransomware?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Un troyano sirve para hacer copias de seguridad y el ransomware para limpiar archivos."
+      },
+      {
+        "id": "B",
+        "text": "El troyano se disfraza de software legítimo para operar oculto en segundo plano, mientras que el ransomware secuestra y cifra la información pidiendo un rescate."
+      },
+      {
+        "id": "C",
+        "text": "Los dos son programas creados para proteger el ordenador."
+      },
+      {
+        "id": "D",
+        "text": "Un ransomware únicamente cambia el fondo del escritorio."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 37,
+    "question": "¿Cuál es el objetivo específico de un keylogger dentro de la categoría de spyware?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mejorar la velocidad con la que funciona el teclado."
+      },
+      {
+        "id": "B",
+        "text": "Registrar de forma encubierta las teclas pulsadas por el usuario con el fin de sustraer contraseñas y datos confidenciales."
+      },
+      {
+        "id": "C",
+        "text": "Eliminar automáticamente las aplicaciones que no se utilizan."
+      },
+      {
+        "id": "D",
+        "text": "Bloquear anuncios emergentes en las páginas web."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 38,
+    "question": "Un ordenador cuenta con el mejor cortafuegos y antivirus del mercado, pero se deja desbloqueado en una sala pública. ¿Qué vulnerabilidad crítica señala el documento en este escenario?",
+    "options": [
+      {
+        "id": "A",
+        "text": "No hay ningún riesgo si está instalado un antivirus."
+      },
+      {
+        "id": "B",
+        "text": "Que la protección lógica frente a internet resulta ineficaz si existe acceso físico sin restricciones al dispositivo."
+      },
+      {
+        "id": "C",
+        "text": "El puerto USB deja de funcionar cuando la pantalla está encendida."
+      },
+      {
+        "id": "D",
+        "text": "La seguridad física no tiene relación con los datos."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 39,
+    "question": "¿Qué regla fundamental debe regir la interacción de un usuario con herramientas externas de Inteligencia Artificial respecto a la información que introduce?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Compartir contraseñas si la consulta es muy rápida."
+      },
+      {
+        "id": "B",
+        "text": "No compartir nunca en una IA información que no tendríamos autorización para revelar a un tercero desconocido."
+      },
+      {
+        "id": "C",
+        "text": "Introducir datos privados de otras personas sin permiso."
+      },
+      {
+        "id": "D",
+        "text": "Dar datos bancarios para obtener respuestas más completas."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 40,
+    "question": "Si un estudiante necesita utilizar una IA para resumir el informe médico de un familiar o compañero, ¿qué medida previa es obligatoria para respetar la privacidad?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Subir el informe con nombre y apellidos para identificarlo mejor."
+      },
+      {
+        "id": "B",
+        "text": "Eliminar cualquier dato identificativo personal antes de procesar el texto, además de contar con autorización legítima."
+      },
+      {
+        "id": "C",
+        "text": "Publicar el informe en redes sociales antes de resumirlo."
+      },
+      {
+        "id": "D",
+        "text": "Compartirlo sin permiso si el resumen va a ser breve."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 41,
+    "question": "De acuerdo con los principios del Reglamento General de Protección de Datos (RGPD) europeo, ¿qué obligación tienen quienes recogen datos personales?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Guardar todos los datos para siempre, aunque ya no hagan falta."
+      },
+      {
+        "id": "B",
+        "text": "Recoger exclusivamente los datos estrictamente necesarios, utilizarlos solo para el fin declarado, protegerlos y garantizar los derechos de acceso, rectificación y supresión."
+      },
+      {
+        "id": "C",
+        "text": "Utilizar los datos para cualquier finalidad sin avisar."
+      },
+      {
+        "id": "D",
+        "text": "Publicar la información personal sin pedir autorización."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 42,
+    "question": "¿Qué distingue a una licencia Creative Commons frente al Dominio Público?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Creative Commons significa que nadie puede reutilizar ninguna obra."
+      },
+      {
+        "id": "B",
+        "text": "El Dominio Público permite el uso libre sin restricciones, mientras que Creative Commons autoriza determinados usos sujetos a las condiciones específicas fijadas por el autor."
+      },
+      {
+        "id": "C",
+        "text": "El dominio público obliga siempre a pedir permiso para copiar."
+      },
+      {
+        "id": "D",
+        "text": "Ambos sistemas prohíben cualquier forma de compartir contenidos."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 43,
+    "question": "Ante la duda sobre si una imagen, texto o conjunto de datos encontrado en internet puede utilizarse libremente en un proyecto, ¿qué criterio práctico debe aplicarse?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Usar el contenido porque aparece en un buscador."
+      },
+      {
+        "id": "B",
+        "text": "Asumir por defecto que NO se tiene permiso para utilizarlo hasta poder demostrar lo contrario."
+      },
+      {
+        "id": "C",
+        "text": "Copiarlo sin comprobar sus condiciones de uso."
+      },
+      {
+        "id": "D",
+        "text": "Cambiarle el color para afirmar que ya es propio."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 44,
+    "question": "¿Qué implica el principio de «equidad» dentro del marco ético del uso de la Inteligencia Artificial?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Que todas las herramientas de IA tengan el mismo precio."
+      },
+      {
+        "id": "B",
+        "text": "Evitar que los sistemas y su utilización perpetúen o amplifiquen sesgos discriminatorios."
+      },
+      {
+        "id": "C",
+        "text": "Que una IA dé siempre la misma respuesta a todo el mundo."
+      },
+      {
+        "id": "D",
+        "text": "Que los sistemas de IA solo puedan utilizar un idioma."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 45,
+    "question": "¿Cuál de las siguientes situaciones representa un uso ético y transparente de la Inteligencia Artificial en el ámbito académico?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Entregar un trabajo escrito por IA como si fuera propio."
+      },
+      {
+        "id": "B",
+        "text": "Emplear la IA para obtener explicaciones alternativas de un concepto complejo o mejorar la redacción de un borrador propio siendo transparente sobre su uso."
+      },
+      {
+        "id": "C",
+        "text": "Compartir datos privados de compañeros para compararlos."
+      },
+      {
+        "id": "D",
+        "text": "Crear noticias falsas sobre otros estudiantes."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 46,
+    "question": "¿Por qué resulta relevante ejercer y conocer el «derecho al olvido digital»?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Que las publicaciones de Internet desaparecen al día siguiente."
+      },
+      {
+        "id": "B",
+        "text": "Porque la información publicada en internet tiende a perdurar y puede dañar la reputación, las relaciones o futuras oportunidades laborales si es innecesaria, incorrecta o perjudicial."
+      },
+      {
+        "id": "C",
+        "text": "Que nadie puede encontrar datos personales ya publicados."
+      },
+      {
+        "id": "D",
+        "text": "Que toda fotografía debe permanecer en Internet para siempre."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 47,
+    "question": "¿Qué diferencia fundamental separa la «desinformación» de la «misinformación»?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Que ambas son siempre información verdadera."
+      },
+      {
+        "id": "B",
+        "text": "La desinformación es información falsa creada y difundida con intención deliberada de engañar, mientras que la misinformación es información falsa compartida sin mala intención."
+      },
+      {
+        "id": "C",
+        "text": "Que la desinformación es un fallo de la conexión a Internet."
+      },
+      {
+        "id": "D",
+        "text": "Que la misinformación busca siempre engañar intencionadamente."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 48,
+    "question": "¿Qué preguntas clave debe formularse un usuario para verificar críticamente la fiabilidad de un contenido digital antes de compartirlo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Quién lo publica, cuándo se publicó, qué evidencias originales aporta y qué dicen otras fuentes independientes al respecto."
+      },
+      {
+        "id": "B",
+        "text": "Mirar únicamente cuántos «me gusta» tiene la publicación."
+      },
+      {
+        "id": "C",
+        "text": "Elegir la noticia que tenga la fotografía más bonita."
+      },
+      {
+        "id": "D",
+        "text": "Confiar en cualquier mensaje sin comprobar la fuente."
+      }
+    ],
+    "correctOptionId": "A"
+  },
+  {
+    "id": 49,
+    "question": "¿Qué relación existe entre el uso cotidiano de grandes modelos de Inteligencia Artificial y la sostenibilidad ambiental?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La actividad digital nunca consume electricidad."
+      },
+      {
+        "id": "B",
+        "text": "La actividad digital, incluidos los centros de datos, las redes y los modelos de IA, consume energía. Evitar consultas innecesarias ayuda a reducir su impacto ambiental."
+      },
+      {
+        "id": "C",
+        "text": "Los centros de datos funcionan sin gastar energía."
+      },
+      {
+        "id": "D",
+        "text": "Hacer más consultas de IA siempre reduce el consumo eléctrico."
+      }
+    ],
+    "correctOptionId": "B"
+  },
+  {
+    "id": 50,
+    "question": "¿Qué hábito contribuye de manera directa a reducir la huella de carbono digital asociada a la tecnología?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cambiar de teléfono móvil todos los meses."
+      },
+      {
+        "id": "B",
+        "text": "Prolongar la vida útil de los dispositivos, apagarlos cuando no se usen, reciclarlos adecuadamente y emplear la IA de forma eficiente evitando consultas superfluas."
+      },
+      {
+        "id": "C",
+        "text": "Dejar los dispositivos encendidos todo el día."
+      },
+      {
+        "id": "D",
+        "text": "Tirar los equipos viejos a la basura común."
+      }
+    ],
+    "correctOptionId": "B"
+  }
+]
