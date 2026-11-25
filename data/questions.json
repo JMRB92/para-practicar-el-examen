@@ -5,7 +5,7 @@
     "options": [
       {
         "id": "A",
-        "text": "La capacidad de una máquina para realizar tareas complejas gracias a una comprensión consciente de los datos que recibe."
+        "text": "La rapidez de cálculo, que permite comprender los problemas sin errores."
       },
       {
         "id": "B",
@@ -13,11 +13,11 @@
       },
       {
         "id": "C",
-        "text": "La habilidad de una máquina para reconocer imágenes sin necesitar algoritmos, entrenamiento ni información previa."
+        "text": "La capacidad de simular emociones con conciencia propia mientras interpreta datos y toma decisiones ante situaciones nuevas."
       },
       {
         "id": "D",
-        "text": "La posibilidad de que un sistema informático razone exactamente como una persona cuando ejecuta suficientes instrucciones."
+        "text": "Que la máquina adquiere comprensión consciente de cada problema cuando analiza suficientes datos, aunque sus respuestas se calculen mediante algoritmos."
       }
     ],
     "correctOptionId": "B"
@@ -28,11 +28,11 @@
     "options": [
       {
         "id": "A",
-        "text": "La construcción de los primeros sistemas expertos que resolvían problemas siguiendo reglas lógicas programadas."
+        "text": "La creación del primer programa capaz de aprobar una prueba formal de conversación humana."
       },
       {
         "id": "B",
-        "text": "La demostración experimental de que una máquina había superado definitivamente el conocido Test de Turing."
+        "text": "La demostración práctica de que las redes neuronales podían reconocer imágenes con precisión superior a la humana."
       },
       {
         "id": "C",
@@ -40,7 +40,7 @@
       },
       {
         "id": "D",
-        "text": "La presentación de las redes neuronales profundas que permitieron reconocer imágenes y voz a gran escala."
+        "text": "La publicación de un sistema experto capaz de explicar sus decisiones por reglas lógicas y mantener una conversación humana durante una prueba formal."
       }
     ],
     "correctOptionId": "C"
@@ -51,7 +51,7 @@
     "options": [
       {
         "id": "A",
-        "text": "Una etapa en la que la IA avanzó rápidamente gracias al aumento de datos, ordenadores y financiación disponible."
+        "text": "La mejora constante de la financiación a pesar de los resultados."
       },
       {
         "id": "B",
@@ -59,11 +59,11 @@
       },
       {
         "id": "C",
-        "text": "Un período en el que los investigadores abandonaron los sistemas simbólicos porque ya habían creado una AGI."
+        "text": "El abandono de los sistemas expertos tras comprobarse que no podían utilizarse en ningún sector productivo, incluso con financiación."
       },
       {
         "id": "D",
-        "text": "La sustitución de los métodos de aprendizaje automático por modelos generativos en todos los laboratorios."
+        "text": "Una etapa en la que los avances de los sistemas expertos redujeron los costes de investigación y permitieron concentrar la financiación en usos industriales."
       }
     ],
     "correctOptionId": "B"
@@ -74,7 +74,7 @@
     "options": [
       {
         "id": "A",
-        "text": "Redes neuronales → Sistemas de reglas → IA generativa → Aprendizaje basado en datos."
+        "text": "Redes neuronales → Lógica simbólica → Aprendizaje automático → IA generativa."
       },
       {
         "id": "B",
@@ -82,11 +82,11 @@
       },
       {
         "id": "C",
-        "text": "Aprendizaje basado en datos → Modelos generativos → Reglas simbólicas → Redes neuronales."
+        "text": "Reglas y lógica → Modelos generativos → Aprendizaje automático → Redes neuronales profundas."
       },
       {
         "id": "D",
-        "text": "Reglas simbólicas → Modelos generativos → Aprendizaje automático → Redes neuronales."
+        "text": "Aprendizaje automático → Sistemas expertos de reglas → Redes neuronales profundas → Modelos generativos aplicados al texto y las imágenes digitales."
       }
     ],
     "correctOptionId": "B"
@@ -97,7 +97,7 @@
     "options": [
       {
         "id": "A",
-        "text": "Porque puede resolver cualquier problema usando las mismas reglas que le permiten ganar partidas de ajedrez, sin tener que aprender ni entrenarse para tareas diferentes."
+        "text": "Porque una IA que juega al ajedrez no puede utilizar ningún algoritmo de aprendizaje."
       },
       {
         "id": "B",
@@ -105,11 +105,11 @@
       },
       {
         "id": "C",
-        "text": "Porque aprende estrategias de juego, pero necesita un operador humano que decida todos sus movimientos ante el tablero."
+        "text": "Porque utiliza reglas y estrategias del ajedrez y eso le permite aprender cualquier juego con reglas similares sin cambiar su entrenamiento ni incorporar nuevos datos."
       },
       {
         "id": "D",
-        "text": "Porque usa una base de datos de partidas y, por ello, no puede mejorar su rendimiento ni reconocer patrones nuevos."
+        "text": "Porque vencer en ajedrez demuestra que puede aplicar su razonamiento a otros juegos de estrategia y a problemas cotidianos, siempre que tengan unas reglas definidas con anterioridad."
       }
     ],
     "correctOptionId": "B"
@@ -120,7 +120,7 @@
     "options": [
       {
         "id": "A",
-        "text": "La capacidad de resolver numerosos problemas utilizando un modelo distinto y especializado para cada tarea, sin combinar conocimientos."
+        "text": "La capacidad de producir muchos contenidos diferentes mediante un modelo ya entrenado."
       },
       {
         "id": "B",
@@ -128,11 +128,11 @@
       },
       {
         "id": "C",
-        "text": "La capacidad de generar respuestas muy rápidas en lenguaje natural, aunque solo trabaje con los datos de su entrenamiento."
+        "text": "La habilidad de resolver cualquier tarea de un mismo ámbito sin recibir datos adicionales ni cometer errores."
       },
       {
         "id": "D",
-        "text": "La posibilidad de automatizar tareas físicas mediante sensores y actuadores que siguen instrucciones fijas y predefinidas."
+        "text": "La posibilidad de coordinar muchas herramientas de IA específica y obtener resultados en áreas muy distintas sin que ninguna de ellas aprenda tareas nuevas fuera de su entrenamiento."
       }
     ],
     "correctOptionId": "B"
@@ -143,7 +143,7 @@
     "options": [
       {
         "id": "A",
-        "text": "La IA generativa reorganiza fragmentos existentes de bibliotecas digitales, y su resultado consiste en recuperar textos guardados en lugar de generar contenido nuevo."
+        "text": "La búsqueda y recuperación de documentos originales sin introducir cambios en su contenido."
       },
       {
         "id": "B",
@@ -151,11 +151,11 @@
       },
       {
         "id": "C",
-        "text": "Una base de datos aprende los gustos de sus usuarios y crea nuevas imágenes o canciones a partir de cada consulta, incluso sin utilizar modelos generativos."
+        "text": "La combinación y recuperación de fragmentos de documentos que el sistema almacenó íntegramente antes de recibir una consulta y que puede reorganizar sin generar contenido nuevo."
       },
       {
         "id": "D",
-        "text": "La IA generativa combina reglas escritas manualmente, pero no necesita ejemplos ni entrenamiento para crear contenidos."
+        "text": "La selección de fragmentos existentes que están guardados en una base de datos y su combinación según el contenido de la pregunta formulada por el usuario."
       }
     ],
     "correctOptionId": "B"
@@ -166,7 +166,7 @@
     "options": [
       {
         "id": "A",
-        "text": "La comparación literal de cada pregunta con una colección de respuestas previamente redactadas por especialistas."
+        "text": "La consulta directa de un diccionario para elegir la definición correcta de cada palabra."
       },
       {
         "id": "B",
@@ -174,11 +174,11 @@
       },
       {
         "id": "C",
-        "text": "La aplicación de reglas gramaticales fijas que producen siempre la misma frase, sin considerar el contexto de entrada."
+        "text": "La identificación de reglas gramaticales escritas por expertos que determinan la única respuesta posible."
       },
       {
         "id": "D",
-        "text": "El reconocimiento consciente de la intención humana antes de recuperar de internet una respuesta ya comprobada."
+        "text": "La búsqueda de respuestas predefinidas en documentos y la selección de la opción que tiene una estructura gramatical más parecida a la pregunta."
       }
     ],
     "correctOptionId": "B"
@@ -189,7 +189,7 @@
     "options": [
       {
         "id": "A",
-        "text": "A un error de reconocimiento de voz que obliga al usuario a repetir sus preguntas cuando el micrófono falla."
+        "text": "A una dificultad para distinguir imágenes parecidas cuando cambia la iluminación."
       },
       {
         "id": "B",
@@ -197,11 +197,11 @@
       },
       {
         "id": "C",
-        "text": "A la producción de respuestas coherentes y verificadas que proceden exclusivamente de documentos consultados."
+        "text": "A una afirmación cierta que parece falsa porque el lector desconoce su contexto y no identifica de dónde procede la información utilizada."
       },
       {
         "id": "D",
-        "text": "A un fallo del sistema que impide generar cualquier respuesta cuando encuentra información contradictoria en los datos."
+        "text": "A un error al consultar fuentes que hace que el modelo avise claramente de los datos que no ha podido confirmar y señale qué documentos faltan para responder."
       }
     ],
     "correctOptionId": "B"
@@ -212,7 +212,7 @@
     "options": [
       {
         "id": "A",
-        "text": "En la programación tradicional las reglas se obtienen de ejemplos etiquetados; en el Machine Learning el programador introduce manualmente todas las reglas que se ejecutarán en cada caso."
+        "text": "En ambos enfoques el programador escribe todas las reglas; solo cambia la cantidad de datos utilizada."
       },
       {
         "id": "B",
@@ -220,11 +220,11 @@
       },
       {
         "id": "C",
-        "text": "La programación tradicional necesita datos para funcionar, mientras que el Machine Learning puede aprender sin datos de entrada."
+        "text": "En la programación tradicional se entrenan modelos con ejemplos, mientras que en Machine Learning se fijan instrucciones condicionales."
       },
       {
         "id": "D",
-        "text": "La programación tradicional utiliza algoritmos, mientras que el Machine Learning funciona únicamente almacenando resultados."
+        "text": "En Machine Learning se introducen reglas escritas por especialistas para conseguir respuestas; en programación tradicional el sistema identifica patrones de ejemplos etiquetados y crea las reglas de funcionamiento."
       }
     ],
     "correctOptionId": "B"
@@ -235,7 +235,7 @@
     "options": [
       {
         "id": "A",
-        "text": "El Machine Learning engloba todos los sistemas de IA, pero las redes neuronales profundas constituyen un campo independiente del aprendizaje automático y funcionan mediante reglas escritas a mano."
+        "text": "El Machine Learning es una parte del Deep Learning y ambos funcionan fuera del campo de la IA."
       },
       {
         "id": "B",
@@ -243,11 +243,11 @@
       },
       {
         "id": "C",
-        "text": "La Inteligencia Artificial es una subdisciplina del Machine Learning, y este depende de técnicas propias del Deep Learning."
+        "text": "La IA es un caso particular de Machine Learning, y el Deep Learning se considera una técnica ajena a ambos porque solo se aplica a redes de neuronas artificiales."
       },
       {
         "id": "D",
-        "text": "El Deep Learning y el Machine Learning son dos nombres equivalentes para cualquier sistema que siga reglas programadas."
+        "text": "El Deep Learning contiene todos los métodos de IA, incluidos los sistemas de reglas fijas, mientras que Machine Learning se utiliza únicamente para crear textos e imágenes a partir de datos."
       }
     ],
     "correctOptionId": "B"
@@ -258,7 +258,7 @@
     "options": [
       {
         "id": "A",
-        "text": "Analizando toda la imagen en una sola capa que decide el resultado mediante reglas de brillo y tamaño previamente fijadas."
+        "text": "Comparando la fotografía con una única imagen de referencia guardada previamente."
       },
       {
         "id": "B",
@@ -266,11 +266,11 @@
       },
       {
         "id": "C",
-        "text": "Consultando una colección de fotografías y devolviendo la etiqueta de la imagen que tenga píxeles idénticos."
+        "text": "Aplicando directamente una etiqueta a la imagen antes de analizar sus características visuales."
       },
       {
         "id": "D",
-        "text": "Transformando la imagen directamente en una etiqueta, sin extraer características en las capas intermedias de la red."
+        "text": "Organizando las fotografías por tamaño y resolución antes de asignar la categoría mediante una regla de clasificación fija que no necesita capas intermedias para reconocer características."
       }
     ],
     "correctOptionId": "B"
@@ -285,15 +285,15 @@
       },
       {
         "id": "B",
-        "text": "La automatización reconoce patrones nuevos gracias a los datos y la IA ejecuta únicamente las reglas escritas por un programador."
+        "text": "La automatización analiza patrones aprendidos, mientras que la IA repite secuencias fijas de instrucciones."
       },
       {
         "id": "C",
-        "text": "La automatización y la IA siempre necesitan aprender de datos; la diferencia es que la IA solo trabaja con imágenes."
+        "text": "La automatización analiza probabilidades para decidir cuándo actuar, mientras que la IA aplica reglas fijas que ya fueron escritas para cada posible situación concreta."
       },
       {
         "id": "D",
-        "text": "La automatización aplica instrucciones programadas y la IA también, pero ninguna de ellas puede estimar resultados probables."
+        "text": "La automatización modifica sus reglas al analizar nuevas situaciones, mientras que la inteligencia artificial necesita instrucciones detalladas para cada caso y ofrece siempre resultados predecibles."
       }
     ],
     "correctOptionId": "A"
@@ -304,11 +304,11 @@
     "options": [
       {
         "id": "A",
-        "text": "Recoger medidas de temperatura y humedad con sensores colocados dentro y fuera de la habitación para transmitirlas al sistema de control sin procesarlas."
+        "text": "Encender el compresor cuando llega una orden del programa de control."
       },
       {
         "id": "B",
-        "text": "Activar físicamente el compresor cuando se recibe una orden automática, sin estudiar patrones en los datos ni estimar cambios de temperatura."
+        "text": "Registrar la temperatura ambiental en el sensor para que aparezca en la pantalla del termostato."
       },
       {
         "id": "C",
@@ -316,7 +316,7 @@
       },
       {
         "id": "D",
-        "text": "Encender la climatización cada día a una hora programada, sin analizar tendencias ni condiciones ambientales."
+        "text": "Controlar directamente el encendido del compresor mediante el circuito del termostato, sin estudiar patrones de temperatura recogidos en el pasado."
       }
     ],
     "correctOptionId": "C"
@@ -327,7 +327,7 @@
     "options": [
       {
         "id": "A",
-        "text": "Percibir → Decidir → Procesar → Aprender → Actuar."
+        "text": "Percibir → Decidir → Actuar → Aprender."
       },
       {
         "id": "B",
@@ -335,11 +335,11 @@
       },
       {
         "id": "C",
-        "text": "Percibir → Procesar → Actuar → Decidir → Aprender."
+        "text": "Percibir → Procesar → Aprender → Decidir → Actuar → Evaluar."
       },
       {
         "id": "D",
-        "text": "Procesar → Percibir → Decidir → Aprender → Actuar."
+        "text": "Procesar → Percibir → Decidir → Aprender → Actuar → Evaluar."
       }
     ],
     "correctOptionId": "B"
@@ -350,7 +350,7 @@
     "options": [
       {
         "id": "A",
-        "text": "Ejecutar movimientos con motores y válvulas para que el sistema cambie las condiciones del lugar donde funciona."
+        "text": "Ejecutar movimientos físicos mediante motores al recibir órdenes del sistema."
       },
       {
         "id": "B",
@@ -358,11 +358,11 @@
       },
       {
         "id": "C",
-        "text": "Interpretar los datos recibidos y escoger qué acción se debe realizar según las predicciones del modelo."
+        "text": "Interpretar los datos recibidos para elegir de manera autónoma la respuesta más adecuada."
       },
       {
         "id": "D",
-        "text": "Almacenar los datos procesados y generar por sí mismos las instrucciones que deben ejecutar los actuadores."
+        "text": "Convertir la información procesada en acciones físicas como mover una rueda o activar una válvula, en lugar de recoger medidas del entorno."
       }
     ],
     "correctOptionId": "B"
@@ -373,7 +373,7 @@
     "options": [
       {
         "id": "A",
-        "text": "El sistema puede compensar la falta de datos aumentando automáticamente la precisión de sus predicciones."
+        "text": "La máquina aplica automáticamente reglas nuevas para completar los datos que faltan."
       },
       {
         "id": "B",
@@ -381,11 +381,11 @@
       },
       {
         "id": "C",
-        "text": "La calidad de los datos solo afecta a la velocidad de ejecución, pero no a las decisiones ni a los resultados."
+        "text": "El sistema puede seguir ofreciendo resultados fiables aunque falten datos de entrada, siempre que sus sensores sean suficientemente modernos y estén bien calibrados."
       },
       {
         "id": "D",
-        "text": "Una IA puede reemplazar los datos que faltan por reglas generales, obteniendo siempre resultados igual de fiables."
+        "text": "La red neuronal puede completar los datos de entrada que faltan a partir de patrones anteriores y mantener siempre la exactitud de sus predicciones."
       }
     ],
     "correctOptionId": "B"
@@ -396,11 +396,11 @@
     "options": [
       {
         "id": "A",
-        "text": "Un acelerómetro que recoge información sobre la inclinación o el movimiento del dispositivo donde está instalado."
+        "text": "Un sensor ultrasónico que mide la distancia hasta un obstáculo."
       },
       {
         "id": "B",
-        "text": "Una cámara que captura fotografías del entorno para que un sistema inteligente pueda analizarlas y clasificarlas."
+        "text": "Un acelerómetro que registra el movimiento de un robot mientras se desplaza."
       },
       {
         "id": "C",
@@ -408,7 +408,7 @@
       },
       {
         "id": "D",
-        "text": "Un sensor ultrasónico que mide la distancia de un obstáculo y entrega esa lectura al procesador del robot."
+        "text": "Una cámara con un sistema de reconocimiento de objetos que capta imágenes del entorno y detecta obstáculos antes de que el robot decida moverse."
       }
     ],
     "correctOptionId": "C"
@@ -419,7 +419,7 @@
     "options": [
       {
         "id": "A",
-        "text": "Los sensores vuelven a buscar obstáculos para decidir por primera vez qué zona de la habitación necesita limpieza."
+        "text": "Los sensores vuelven a identificar paredes antes de que se haya realizado ningún movimiento."
       },
       {
         "id": "B",
@@ -427,11 +427,11 @@
       },
       {
         "id": "C",
-        "text": "El procesamiento almacena un mapa del recorrido y espera una nueva orden del usuario antes de mover las ruedas."
+        "text": "El procesador vuelve a comprobar los obstáculos y actualiza el mapa, pero aún no activa los motores para mover el robot aspirador."
       },
       {
         "id": "D",
-        "text": "El robot analiza de nuevo todos los datos de los sensores y evita activar sus motores hasta terminar el mapa."
+        "text": "El robot analiza otra vez los obstáculos y actualiza el mapa de la habitación, sin activar todavía los motores que permiten desplazar sus ruedas."
       }
     ],
     "correctOptionId": "B"
@@ -442,7 +442,7 @@
     "options": [
       {
         "id": "A",
-        "text": "Permite garantizar que el comportamiento aprendido será idéntico en carreteras, fábricas y otros entornos reales."
+        "text": "Permite trabajar sin sensores reales, aunque las pruebas resultan necesariamente más lentas."
       },
       {
         "id": "B",
@@ -450,11 +450,11 @@
       },
       {
         "id": "C",
-        "text": "Hace innecesario el uso posterior de sensores físicos, ya que la simulación reproduce exactamente todos sus datos."
+        "text": "Garantiza que el sistema responderá exactamente igual al llegar al mundo real, sin necesitar nuevas comprobaciones."
       },
       {
         "id": "D",
-        "text": "Reduce las pruebas necesarias porque el sistema aprende solo de unos pocos casos representativos y no comete errores."
+        "text": "Reproducir todas las condiciones del mundo físico con una fidelidad absoluta, de manera que las pruebas realizadas fuera del simulador ya no sean necesarias antes de usar el sistema."
       }
     ],
     "correctOptionId": "B"
@@ -465,7 +465,7 @@
     "options": [
       {
         "id": "A",
-        "text": "Permite trabajar con variables muy controladas y repetir el mismo escenario en condiciones casi idénticas, aunque hay que comprobar los sensores en cada prueba real."
+        "text": "Los datos obtenidos son siempre simulados y no representan el entorno."
       },
       {
         "id": "B",
@@ -473,11 +473,11 @@
       },
       {
         "id": "C",
-        "text": "Evita los riesgos materiales porque el aprendizaje solo tiene consecuencias dentro del ordenador de entrenamiento."
+        "text": "Las condiciones del entorno se pueden repetir exactamente en cada prueba real, por lo que se pierde la oportunidad de enfrentar el sistema a situaciones inesperadas."
       },
       {
         "id": "D",
-        "text": "Permite ensayar millones de situaciones a bajo coste y repetir cada prueba en condiciones exactamente iguales."
+        "text": "El sistema no puede recibir nuevas lecturas de sus sensores durante las pruebas en el entorno real y necesita usar únicamente datos ya etiquetados en un simulador antes de actuar."
       }
     ],
     "correctOptionId": "B"
@@ -488,7 +488,7 @@
     "options": [
       {
         "id": "A",
-        "text": "Entrenar los vehículos únicamente en carreteras reales para que aprendan desde el principio sin utilizar modelos virtuales."
+        "text": "Entrenarlos desde el inicio en carreteras abiertas para observar todas las situaciones posibles."
       },
       {
         "id": "B",
@@ -496,11 +496,11 @@
       },
       {
         "id": "C",
-        "text": "Comprobar el funcionamiento en simuladores y considerar innecesaria cualquier validación con vehículos y sensores reales."
+        "text": "Utilizar solo simuladores de conducción porque los vehículos autónomos no necesitan validar su comportamiento fuera del ordenador."
       },
       {
         "id": "D",
-        "text": "Programar todas las situaciones posibles con reglas fijas y descartar el entrenamiento con datos y la simulación."
+        "text": "Crear primero un vehículo que funcione solo con reglas fijas y después sustituir los sensores por una simulación, de modo que no sea necesario adaptar el sistema a las carreteras reales."
       }
     ],
     "correctOptionId": "B"
@@ -511,7 +511,7 @@
     "options": [
       {
         "id": "A",
-        "text": "«Si el reloj marca las ocho, la cámara se activa y el motor se detiene a una hora fija, aunque en la imagen no se observe ningún obstáculo»."
+        "text": "«Si el reloj marca las ocho, las luces se encienden automáticamente»."
       },
       {
         "id": "B",
@@ -519,11 +519,11 @@
       },
       {
         "id": "C",
-        "text": "«Si el sensor mide menos de 20 centímetros, el robot frena siguiendo una regla fija programada de antemano, sin clasificar lo que tiene delante»."
+        "text": "«Si el sensor registra una temperatura superior al valor fijado por una persona, el termostato activa el compresor sin interpretar datos ni realizar predicciones»."
       },
       {
         "id": "D",
-        "text": "«Si el robot recibe la orden de limpiar, ejecuta siempre la misma ruta almacenada sin reconocer lo que encuentra»."
+        "text": "«Si el robot recibe una ruta y una hora programadas, sigue esas instrucciones y activa los motores sin interpretar las imágenes de sus sensores»."
       }
     ],
     "correctOptionId": "B"
@@ -534,7 +534,7 @@
     "options": [
       {
         "id": "A",
-        "text": "Porque los modelos recurren exclusivamente a fuentes previamente verificadas y el único riesgo consiste en cometer errores de formato o de traducción de una respuesta correcta."
+        "text": "Porque solo pueden responder correctamente cuando encuentran la pregunta escrita literalmente en Internet."
       },
       {
         "id": "B",
@@ -542,11 +542,11 @@
       },
       {
         "id": "C",
-        "text": "Porque sus respuestas se construyen a partir de reglas totalmente verificadas, aunque no siempre citan las fuentes originales."
+        "text": "Porque su información procede exclusivamente de documentos científicos verificados y no puede actualizarse sin permiso."
       },
       {
         "id": "D",
-        "text": "Porque al consultar modelos generativos se obtiene información directamente de una enciclopedia que puede estar desactualizada."
+        "text": "Porque todos los modelos consultan enciclopedias verificadas antes de responder y sus posibles errores proceden únicamente de que las páginas consultadas pueden contener información antigua."
       }
     ],
     "correctOptionId": "B"
@@ -557,7 +557,7 @@
     "options": [
       {
         "id": "A",
-        "text": "Aceptar las respuestas de una IA si parecen convincentes y consultar al profesor únicamente cuando el resultado no pueda utilizarse, aunque la herramienta no haya contrastado las fuentes."
+        "text": "Evitar las herramientas de IA hasta que se confirme que todas sus decisiones son infalibles."
       },
       {
         "id": "B",
@@ -565,11 +565,11 @@
       },
       {
         "id": "C",
-        "text": "Delegar las tareas académicas en una IA sin comprobar los datos, siempre que las respuestas tengan una estructura clara y un estilo convincente que parezca profesional."
+        "text": "Seguir las recomendaciones de la IA como respuestas definitivas para los trabajos escolares, ya que sus conclusiones se basan en una gran cantidad de documentos."
       },
       {
         "id": "D",
-        "text": "Evitar cualquier uso de IA en el aprendizaje, porque los sistemas actuales no aportan información útil en entornos educativos."
+        "text": "Dejar que las herramientas generativas resuelvan las actividades y tomen decisiones académicas por el estudiante, ya que procesar muchos datos garantiza que sus respuestas sean fiables."
       }
     ],
     "correctOptionId": "B"
@@ -580,7 +580,7 @@
     "options": [
       {
         "id": "A",
-        "text": "Porque aprender seguridad permite sustituir las materias de programación y evita de manera automática los fallos técnicos que puedan surgir durante los proyectos posteriores."
+        "text": "Porque permiten sustituir las actividades prácticas por normas que el alumno debe memorizar."
       },
       {
         "id": "B",
@@ -588,11 +588,11 @@
       },
       {
         "id": "C",
-        "text": "Porque estos contenidos sirven para proteger dispositivos, pero no influyen en el diseño de las aplicaciones ni en la forma responsable de utilizar datos personales."
+        "text": "Porque dominar la seguridad informática elimina la necesidad de aprender programación o desarrollo de aplicaciones."
       },
       {
         "id": "D",
-        "text": "Porque solo deben aprenderse después de desarrollar programas, cuando el alumnado ya maneja datos de otras personas."
+        "text": "Porque conocer las normas de privacidad garantiza que cualquier aplicación futura funcionará sin riesgos y hace innecesario evaluar sus resultados o aprender a utilizarla con espíritu crítico."
       }
     ],
     "correctOptionId": "B"
@@ -603,7 +603,7 @@
     "options": [
       {
         "id": "A",
-        "text": "La confidencialidad, porque el ataque demuestra que un usuario externo ha leído los documentos almacenados."
+        "text": "La confidencialidad, porque el servidor ha dejado de permitir leer datos privados."
       },
       {
         "id": "B",
@@ -611,11 +611,11 @@
       },
       {
         "id": "C",
-        "text": "La integridad, porque el problema principal consiste en que los archivos contienen datos incorrectos al abrirse."
+        "text": "La autenticación, porque el sistema no acepta las credenciales habituales de los empleados y por eso no pueden demostrar su identidad."
       },
       {
         "id": "D",
-        "text": "La identificación, porque el servidor ha dejado de reconocer los nombres de usuario de sus trabajadores."
+        "text": "La integridad, ya que los atacantes han sustituido los registros por datos falsos que siguen estando accesibles para los empleados que los consultan."
       }
     ],
     "correctOptionId": "B"
@@ -626,7 +626,7 @@
     "options": [
       {
         "id": "A",
-        "text": "La protección total puede conseguirse combinando un antivirus, una contraseña larga y actualizaciones, incluso cuando el usuario entrega sus claves en un mensaje fraudulento."
+        "text": "Instalar un antivirus actualizado basta para eliminar cualquier riesgo digital."
       },
       {
         "id": "B",
@@ -634,11 +634,11 @@
       },
       {
         "id": "C",
-        "text": "Una vez instalado el software de seguridad actualizado, los hábitos de los usuarios dejan de influir en el riesgo, aunque reciban enlaces fraudulentos o llamadas falsas."
+        "text": "La seguridad total se alcanza al combinar una contraseña fuerte y la verificación en dos pasos."
       },
       {
         "id": "D",
-        "text": "Los riesgos desaparecen en las cuentas que usan doble autenticación, aunque el resto del dispositivo siga desprotegido."
+        "text": "La protección puede ser permanente si se usan antivirus, contraseñas largas y actualizaciones, por lo que dejan de ser necesarias otras precauciones."
       }
     ],
     "correctOptionId": "B"
@@ -653,15 +653,15 @@
       },
       {
         "id": "B",
-        "text": "Reduce el riesgo de que una clave filtrada pueda utilizarse para entrar en otros servicios."
+        "text": "Evita las contraseñas robadas mediante phishing."
       },
       {
         "id": "C",
-        "text": "Impide que los mensajes de phishing obtengan una contraseña, incluso si el usuario la escribe."
+        "text": "Permite utilizar una misma contraseña larga en varias cuentas sin aumentar el riesgo."
       },
       {
         "id": "D",
-        "text": "Sustituye la autenticación multifactor porque añade más caracteres a la clave de acceso."
+        "text": "Protege frente a cualquier filtración de datos, aunque la misma contraseña se utilice en varias cuentas y un tercero la descubra."
       }
     ],
     "correctOptionId": "A"
@@ -672,7 +672,7 @@
     "options": [
       {
         "id": "A",
-        "text": "Consiste en mostrar una página que imita a un servicio auténtico para conseguir que el usuario escriba sus credenciales, sin emplear ninguna contraseña que ya se haya filtrado."
+        "text": "En averiguar una contraseña probando sucesivas combinaciones hasta encontrar la correcta."
       },
       {
         "id": "B",
@@ -680,11 +680,11 @@
       },
       {
         "id": "C",
-        "text": "Consiste en probar automáticamente miles de combinaciones de caracteres hasta adivinar una contraseña, sin aprovechar claves obtenidas en cuentas o servicios anteriores."
+        "text": "En engañar al usuario con un mensaje falso para que escriba la clave en una página que imita el inicio de sesión."
       },
       {
         "id": "D",
-        "text": "En utilizar un programa que registra las teclas pulsadas por la víctima para descubrir las contraseñas que introduce."
+        "text": "En instalar un programa que registra lo que escribe el usuario en distintos servicios y permite reconstruir sus claves, sin aprovechar contraseñas expuestas en una filtración anterior."
       }
     ],
     "correctOptionId": "B"
@@ -695,7 +695,7 @@
     "options": [
       {
         "id": "A",
-        "text": "Establecer una sola clave para todos los servicios y cambiarla con frecuencia para facilitar el acceso, aunque el usuario necesite recordar una contraseña única para varias cuentas."
+        "text": "Compartir automáticamente las contraseñas guardadas con las páginas que visita el usuario."
       },
       {
         "id": "B",
@@ -703,11 +703,11 @@
       },
       {
         "id": "C",
-        "text": "Verificar la identidad del usuario mediante un código enviado al móvil y sustituir así la autenticación multifactor."
+        "text": "Inspeccionar las redes a las que se conecta el dispositivo y bloquear automáticamente las conexiones inseguras mientras se gestionan las claves de todas las aplicaciones."
       },
       {
         "id": "D",
-        "text": "Detectar mensajes de phishing y bloquear sus enlaces antes de que lleguen a las cuentas de correo del usuario."
+        "text": "Crear una contraseña maestra para todas las cuentas y modificarla de forma simultánea cuando uno de los servicios sufre una filtración, manteniendo así idénticas todas las credenciales."
       }
     ],
     "correctOptionId": "B"
@@ -722,15 +722,15 @@
       },
       {
         "id": "B",
-        "text": "La identificación comprueba una contraseña, mientras que la autenticación consiste únicamente en escribir un nombre de usuario."
+        "text": "Identificarse significa demostrar la identidad; autenticarse es únicamente escribir un nombre."
       },
       {
         "id": "C",
-        "text": "La identificación confirma la huella dactilar y la autenticación consiste en asignar al usuario un nombre dentro del sistema."
+        "text": "La identificación consiste en introducir una clave secreta, mientras que la autenticación registra el dispositivo usado."
       },
       {
         "id": "D",
-        "text": "Ambos procesos demuestran la identidad del usuario; la única diferencia es si se realizan en un móvil o en un ordenador."
+        "text": "La autenticación solo se usa al crear una cuenta y la identificación en los accesos posteriores, por lo que ninguna de las dos necesita demostrar de forma verificable quién está entrando."
       }
     ],
     "correctOptionId": "A"
@@ -741,7 +741,7 @@
     "options": [
       {
         "id": "A",
-        "text": "Dos factores de conocimiento diferentes, porque tanto el PIN como la huella son datos que el usuario debe memorizar."
+        "text": "Un factor de conocimiento y otro de posesión del dispositivo."
       },
       {
         "id": "B",
@@ -749,11 +749,11 @@
       },
       {
         "id": "C",
-        "text": "Un factor de posesión y otro de conocimiento, ya que la huella pertenece al teléfono y el PIN representa la identidad."
+        "text": "Dos factores de conocimiento, porque el PIN se memoriza y la huella también se almacena como un código que debe recordarse."
       },
       {
         "id": "D",
-        "text": "Dos factores biométricos, puesto que el sistema reconoce a la persona tanto por su huella como por el código elegido."
+        "text": "Dos factores biométricos, porque tanto el PIN como la huella proceden de características físicas que identifica el teléfono antes de dar acceso."
       }
     ],
     "correctOptionId": "B"
@@ -764,7 +764,7 @@
     "options": [
       {
         "id": "A",
-        "text": "Convencer a la víctima mediante un mensaje formal y detallado que le permita revisar cuidadosamente la petición de datos antes de realizar cualquier acción."
+        "text": "El uso de explicaciones técnicas largas para que el destinatario lea el mensaje con calma."
       },
       {
         "id": "B",
@@ -772,11 +772,11 @@
       },
       {
         "id": "C",
-        "text": "Solicitar información a través de una página que muestra con claridad su dirección auténtica y permite comprobar el origen del remitente antes de responder."
+        "text": "La presentación de enlaces a páginas conocidas para que el usuario verifique la identidad del remitente."
       },
       {
         "id": "D",
-        "text": "El ofrecimiento de recomendaciones generales de seguridad para que el usuario decida con calma qué pasos seguir."
+        "text": "Crear un ambiente de confianza en el que se anima a comparar varias fuentes y esperar antes de compartir información personal o bancaria."
       }
     ],
     "correctOptionId": "B"
@@ -787,7 +787,7 @@
     "options": [
       {
         "id": "A",
-        "text": "Porque las contraseñas dejan de tener utilidad en la actualidad, ya que la mayoría de los ataques se producen por fallos del hardware y no por decisiones de los usuarios."
+        "text": "Porque los atacantes solo necesitan acceder a los equipos cuando están apagados."
       },
       {
         "id": "B",
@@ -795,11 +795,11 @@
       },
       {
         "id": "C",
-        "text": "Porque las técnicas de ingeniería social consisten en vulnerar programas mediante herramientas técnicas y nunca necesitan aprovechar la confianza ni las emociones de las personas."
+        "text": "Porque los ataques se aprovechan principalmente de que los usuarios no instalan todas las actualizaciones disponibles, incluso cuando los mensajes son completamente fiables."
       },
       {
         "id": "D",
-        "text": "Porque las amenazas informáticas proceden siempre de equivocaciones humanas y las vulnerabilidades de los programas ya no afectan a los sistemas protegidos."
+        "text": "Porque los sistemas digitales modernos están libres de vulnerabilidades técnicas y los ataques solo pueden tener éxito cuando una persona entrega voluntariamente sus credenciales."
       }
     ],
     "correctOptionId": "B"
@@ -810,7 +810,7 @@
     "options": [
       {
         "id": "A",
-        "text": "El troyano infecta otros archivos al replicarse; el ransomware se limita a recoger datos de navegación para mostrar anuncios."
+        "text": "El troyano muestra publicidad invasiva y el ransomware registra contraseñas."
       },
       {
         "id": "B",
@@ -818,11 +818,11 @@
       },
       {
         "id": "C",
-        "text": "El troyano bloquea las contraseñas del sistema; el ransomware registra en secreto las pulsaciones del teclado del usuario."
+        "text": "El troyano se reproduce infectando archivos y el ransomware solo elimina los programas sospechosos."
       },
       {
         "id": "D",
-        "text": "El troyano busca cifrar los documentos para obtener un rescate; el ransomware aparenta ser una aplicación legítima."
+        "text": "El troyano cifra documentos y solicita un rescate económico, mientras que el ransomware se presenta como un programa legítimo que actúa de manera oculta para recoger información."
       }
     ],
     "correctOptionId": "B"
@@ -833,7 +833,7 @@
     "options": [
       {
         "id": "A",
-        "text": "Bloquear el sistema hasta que el usuario pague por recuperar el acceso a los documentos guardados en el equipo."
+        "text": "Bloquear archivos y solicitar un rescate económico para recuperar su acceso."
       },
       {
         "id": "B",
@@ -841,11 +841,11 @@
       },
       {
         "id": "C",
-        "text": "Recopilar el historial de navegación para mostrar anuncios adaptados a los intereses del usuario sin registrar pulsaciones."
+        "text": "Mostrar anuncios dirigidos al usuario a partir de las páginas que ha visitado, sin tener que registrar sus pulsaciones de teclado ni sus contraseñas."
       },
       {
         "id": "D",
-        "text": "Examinar archivos para localizar virus y avisar al usuario cuando detecta software sospechoso en el dispositivo."
+        "text": "Analizar archivos y páginas visitadas para detectar riesgos y producir informes sobre el equipo, sin registrar las teclas que pulsa el usuario ni obtener contraseñas de acceso."
       }
     ],
     "correctOptionId": "B"
@@ -856,7 +856,7 @@
     "options": [
       {
         "id": "A",
-        "text": "Que el antivirus deja de funcionar automáticamente cuando el ordenador se conecta a una red de uso público."
+        "text": "El antivirus debe instalarse otra vez cada vez que alguien usa el ordenador."
       },
       {
         "id": "B",
@@ -864,11 +864,11 @@
       },
       {
         "id": "C",
-        "text": "Que el cifrado del disco no sirve para impedir accesos a un equipo que permanece completamente apagado."
+        "text": "Que el cifrado del disco desaparece automáticamente cuando se abre una sesión de usuario."
       },
       {
         "id": "D",
-        "text": "Que la seguridad informática depende solo de proteger el acceso a internet y no de impedir el uso presencial del equipo."
+        "text": "Que el cortafuegos solo protege los archivos de la nube y que los datos locales no pueden consultarse aunque el ordenador quede desbloqueado."
       }
     ],
     "correctOptionId": "B"
@@ -879,7 +879,7 @@
     "options": [
       {
         "id": "A",
-        "text": "Introducir datos personales si se indica a la herramienta que no los muestre en la respuesta que genere."
+        "text": "Compartir datos privados si se indica al modelo que borre el historial al finalizar."
       },
       {
         "id": "B",
@@ -887,11 +887,11 @@
       },
       {
         "id": "C",
-        "text": "Compartir documentos privados siempre que se utilice una herramienta de IA conocida y se cierre sesión después."
+        "text": "Introducir datos sensibles si la conexión es doméstica, ya que así la información no llegará a personas ajenas al equipo utilizado."
       },
       {
         "id": "D",
-        "text": "Enviar información de terceros solo cuando el objetivo sea académico y el resultado no se publique abiertamente."
+        "text": "Compartir documentos confidenciales si se utiliza una cuenta personal y cada documento se divide en varias consultas para evitar que sea identificable."
       }
     ],
     "correctOptionId": "B"
@@ -902,7 +902,7 @@
     "options": [
       {
         "id": "A",
-        "text": "Sustituir el nombre por iniciales y conservar los datos médicos identificativos para mantener el contexto del informe clínico."
+        "text": "Sustituir el nombre del archivo por un título genérico antes de enviarlo."
       },
       {
         "id": "B",
@@ -910,11 +910,11 @@
       },
       {
         "id": "C",
-        "text": "Utilizar una cuenta personal y pedir que se borre el documento al terminar, sin solicitar permiso al familiar o compañero afectado."
+        "text": "Enviar el informe completo y pedir al modelo que oculte los datos al redactar su resumen."
       },
       {
         "id": "D",
-        "text": "Subir el archivo a una IA conocida mientras el resumen no se publique y se utilice únicamente para estudiar en clase con otros alumnos."
+        "text": "Modificar nombres y fechas sin revisar si el resto del informe identifica a la persona, porque cualquier sustitución parcial garantiza la privacidad."
       }
     ],
     "correctOptionId": "B"
@@ -925,7 +925,7 @@
     "options": [
       {
         "id": "A",
-        "text": "Recoger todos los datos que puedan resultar útiles en el futuro, informar después y permitir su consulta a cualquier usuario sin comprobar si esos datos siguen siendo necesarios."
+        "text": "Conservar todos los datos de forma indefinida para futuras consultas."
       },
       {
         "id": "B",
@@ -933,11 +933,11 @@
       },
       {
         "id": "C",
-        "text": "Conservar los datos personales de manera indefinida para evitar pérdidas, aunque ya se haya cumplido la finalidad inicial."
+        "text": "Recoger tantos datos como resulte posible para utilizarlos en futuros proyectos, siempre que la entidad explique de forma general que pretende mejorar sus servicios."
       },
       {
         "id": "D",
-        "text": "Reunir datos únicamente con autorización verbal y reutilizarlos para nuevos proyectos sin explicar los cambios de finalidad."
+        "text": "Compartir los datos personales con otras empresas si el usuario abrió una cuenta en la plataforma, sin definir una finalidad precisa ni permitir después el acceso, la rectificación o la supresión."
       }
     ],
     "correctOptionId": "B"
@@ -948,7 +948,7 @@
     "options": [
       {
         "id": "A",
-        "text": "Creative Commons se aplica a todas las obras de Internet, mientras que el dominio público corresponde solo a programas libres."
+        "text": "Creative Commons prohíbe copiar obras, mientras que el dominio público exige licencia."
       },
       {
         "id": "B",
@@ -956,11 +956,11 @@
       },
       {
         "id": "C",
-        "text": "El dominio público necesita siempre atribución mediante una licencia CC, mientras que Creative Commons no impone condiciones."
+        "text": "El dominio público requiere el permiso expreso del autor, y Creative Commons permite todos los usos sin condiciones."
       },
       {
         "id": "D",
-        "text": "Creative Commons prohíbe el uso comercial de cualquier obra, mientras que el dominio público autoriza solamente copias privadas."
+        "text": "Creative Commons solo se utiliza para programas de código abierto y el dominio público se limita a fotografías que tienen una autorización comercial expresa del creador original."
       }
     ],
     "correctOptionId": "B"
@@ -971,7 +971,7 @@
     "options": [
       {
         "id": "A",
-        "text": "Utilizarlo si la página no muestra un aviso de derechos reservados junto al archivo descargado."
+        "text": "Suponer que puede usarse mientras el contenido no muestre un aviso de derechos."
       },
       {
         "id": "B",
@@ -979,11 +979,11 @@
       },
       {
         "id": "C",
-        "text": "Cambiar algunos detalles del contenido para considerarlo una creación propia sin revisar la licencia."
+        "text": "Considerar permitido el uso de una obra si se cita su autor, aunque no se hayan revisado las condiciones de su licencia."
       },
       {
         "id": "D",
-        "text": "Citar el nombre de la página y reutilizar el material sin comprobar qué permisos concede su autor."
+        "text": "Reutilizar un contenido de un buscador después de cambiar su título y sus colores, porque así desaparecen las condiciones de uso de la obra original."
       }
     ],
     "correctOptionId": "B"
@@ -994,7 +994,7 @@
     "options": [
       {
         "id": "A",
-        "text": "Tratar a todas las personas del mismo modo, aunque el sistema siga reproduciendo prejuicios."
+        "text": "Dar exactamente los mismos resultados a todas las personas, sin contexto."
       },
       {
         "id": "B",
@@ -1002,11 +1002,11 @@
       },
       {
         "id": "C",
-        "text": "Permitir que cualquier usuario utilice gratis un sistema, independientemente de sus datos."
+        "text": "Dar el mismo resultado a todas las personas aunque tengan necesidades distintas, sin revisar posibles sesgos."
       },
       {
         "id": "D",
-        "text": "Dar prioridad a la precisión técnica del modelo, aunque sus decisiones perjudiquen a algunos grupos."
+        "text": "Priorizar las herramientas de IA para usuarios con recursos elevados, porque así se aprovechan mejor los sistemas y se garantiza un acceso equitativo."
       }
     ],
     "correctOptionId": "B"
@@ -1017,7 +1017,7 @@
     "options": [
       {
         "id": "A",
-        "text": "Presentar como propio un trabajo generado por IA después de cambiar algunas palabras y corregir errores de estilo, sin indicar qué partes fueron redactadas por la herramienta."
+        "text": "Entregar un trabajo escrito por IA como propio si el contenido parece original."
       },
       {
         "id": "B",
@@ -1025,11 +1025,11 @@
       },
       {
         "id": "C",
-        "text": "Usar una herramienta de IA para comparar calificaciones personales de otros estudiantes sin su autorización, aunque el análisis solamente se comparta con el docente."
+        "text": "Solicitar a la IA que escriba la actividad completa y no mencionar su participación, porque la revisión posterior de las frases convierte el contenido generado en un trabajo original."
       },
       {
         "id": "D",
-        "text": "Entregar un texto elaborado por IA sin mencionarla, siempre que su contenido sea correcto y esté bien organizado."
+        "text": "Introducir datos personales de otros compañeros para adaptar los resultados al grupo y presentar después esas respuestas como si procedieran de un trabajo propio sin ayuda tecnológica."
       }
     ],
     "correctOptionId": "B"
@@ -1040,7 +1040,7 @@
     "options": [
       {
         "id": "A",
-        "text": "Porque permite eliminar automáticamente cualquier publicación de otra persona, aunque sea correcta y no contenga datos propios."
+        "text": "Porque garantiza que cualquier dato personal desaparezca de la red sin dejar copias."
       },
       {
         "id": "B",
@@ -1048,11 +1048,11 @@
       },
       {
         "id": "C",
-        "text": "Porque garantiza que todos los contenidos compartidos en redes desaparecen de forma definitiva al cerrar una cuenta."
+        "text": "Porque obliga a borrar de inmediato todas las publicaciones de redes sociales, aunque sigan siendo necesarias."
       },
       {
         "id": "D",
-        "text": "Porque obliga a borrar cualquier dato publicado hace tiempo, aunque siga siendo necesario y no afecte a la privacidad."
+        "text": "Garantizar que cualquier fotografía o texto desaparezca de todas las copias y dispositivos existentes en cuanto la persona afectada lo solicite, sin tener que valorar los derechos de otras personas o la legitimidad de su conservación."
       }
     ],
     "correctOptionId": "B"
@@ -1063,7 +1063,7 @@
     "options": [
       {
         "id": "A",
-        "text": "La desinformación suele difundirse en redes sociales y la misinformación aparece en medios de comunicación tradicionales; por tanto, se diferencian por el canal empleado y no por la intención de engañar."
+        "text": "La desinformación es un error involuntario y la misinformación busca engañar."
       },
       {
         "id": "B",
@@ -1071,11 +1071,11 @@
       },
       {
         "id": "C",
-        "text": "La desinformación contiene opiniones parciales pero verdaderas, mientras que la misinformación comprende noticias inventadas."
+        "text": "La desinformación aparece únicamente en vídeos e imágenes creados con IA, mientras que la misinformación se produce solo en noticias falsas redactadas en forma de texto."
       },
       {
         "id": "D",
-        "text": "La desinformación surge al compartir datos falsos sin saberlo, mientras que la misinformación busca engañar deliberadamente."
+        "text": "La desinformación incluye cualquier contenido difícil de comprobar, mientras que la misinformación es información verdadera que se comparte sin indicar su fecha ni las fuentes originales."
       }
     ],
     "correctOptionId": "B"
@@ -1090,15 +1090,15 @@
       },
       {
         "id": "B",
-        "text": "Valorar quién ha compartido la noticia, cuántas personas le siguen y la cantidad de comentarios que recibe en redes sociales."
+        "text": "Cuántas personas han compartido la noticia y en qué plataforma aparece."
       },
       {
         "id": "C",
-        "text": "Comprobar que se publicó recientemente y que su titular se repite en publicaciones de la misma cuenta, sin buscar otras fuentes."
+        "text": "Si el contenido utiliza un tono profesional y está acompañado de fotografías de buena calidad."
       },
       {
         "id": "D",
-        "text": "Revisar que el vídeo parezca real y que la web tenga HTTPS, sin contrastar el contenido con fuentes independientes de confianza."
+        "text": "Ver si una publicación tiene miles de interacciones y aparece entre los primeros resultados del buscador, pues su popularidad permite confirmar los hechos."
       }
     ],
     "correctOptionId": "A"
@@ -1109,7 +1109,7 @@
     "options": [
       {
         "id": "A",
-        "text": "Las consultas a una IA siempre reducen el consumo energético, porque los cálculos se realizan en el dispositivo de cada usuario y no requieren centros de datos ni redes externas."
+        "text": "La actividad digital no consume energía cuando se utilizan servicios gratuitos."
       },
       {
         "id": "B",
@@ -1117,11 +1117,11 @@
       },
       {
         "id": "C",
-        "text": "El impacto ambiental de la tecnología procede únicamente de la fabricación de dispositivos; cuando ya están fabricados, usar servicios digitales no implica gasto de energía ni recursos adicionales."
+        "text": "El impacto ambiental está relacionado solo con la fabricación y eliminación de los equipos, y no con la energía utilizada al realizar consultas a sistemas de IA."
       },
       {
         "id": "D",
-        "text": "El gasto energético depende exclusivamente de la pantalla del usuario, no de las redes ni de los centros donde opera la IA."
+        "text": "El consumo de los modelos de IA depende únicamente del dispositivo desde el que escribe el usuario, sin que los centros de datos ni las redes utilizadas para procesar las consultas tengan impacto."
       }
     ],
     "correctOptionId": "B"
@@ -1132,7 +1132,7 @@
     "options": [
       {
         "id": "A",
-        "text": "Renovar teléfonos y ordenadores frecuentemente para aprovechar dispositivos más eficientes, aunque los modelos anteriores todavía funcionen y se puedan reparar con facilidad."
+        "text": "Cambiar los dispositivos con frecuencia para aprovechar siempre los modelos nuevos."
       },
       {
         "id": "B",
@@ -1140,11 +1140,11 @@
       },
       {
         "id": "C",
-        "text": "Mantener los equipos encendidos incluso cuando no se estén utilizando, ya que apagarlos y volverlos a encender consumiría siempre más energía que dejarlos funcionando todo el día."
+        "text": "Dejar los equipos encendidos cuando no se usen para reducir el consumo que produce el arranque."
       },
       {
         "id": "D",
-        "text": "Realizar numerosas consultas repetidas a modelos generativos y almacenar varias copias de todos los archivos, aunque muchas de ellas no sean necesarias para la actividad."
+        "text": "Repetir consultas a modelos de IA, conservar archivos duplicados y sustituir equipos que funcionan por versiones más nuevas, porque así disminuye automáticamente el impacto ambiental."
       }
     ],
     "correctOptionId": "B"
